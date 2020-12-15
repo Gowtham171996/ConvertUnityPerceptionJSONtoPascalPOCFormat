@@ -1,0 +1,107 @@
+{
+  "version": "0.0.1",
+  "metric_definitions": [
+    {
+      "id": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "name": "object count",
+      "description": "Counts of objects for each label in the sensor's view",
+      "spec": [
+        {
+          "label_id": 0,
+          "label_name": "candy_minipralines_lindt"
+        },
+        {
+          "label_id": 1,
+          "label_name": "cereal_cheerios_honeynut"
+        },
+        {
+          "label_id": 2,
+          "label_name": "cleaning_snuggle_henkel"
+        },
+        {
+          "label_id": 3,
+          "label_name": "craft_yarn_caron"
+        },
+        {
+          "label_id": 4,
+          "label_name": "drink_greentea_itoen"
+        },
+        {
+          "label_id": 5,
+          "label_name": "drink_whippingcream_lucerne"
+        },
+        {
+          "label_id": 6,
+          "label_name": "lotion_essentially_nivea"
+        },
+        {
+          "label_id": 7,
+          "label_name": "pasta_lasagne_barilla"
+        },
+        {
+          "label_id": 8,
+          "label_name": "snack_biscotti_ghiott"
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley"
+        },
+        {
+          "label_id": 10,
+          "label_name": "none"
+        }
+      ]
+    },
+    {
+      "id": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "name": "rendered object info",
+      "description": "Information about each labeled object visible to the sensor",
+      "spec": [
+        {
+          "label_id": 0,
+          "label_name": "candy_minipralines_lindt"
+        },
+        {
+          "label_id": 1,
+          "label_name": "cereal_cheerios_honeynut"
+        },
+        {
+          "label_id": 2,
+          "label_name": "cleaning_snuggle_henkel"
+        },
+        {
+          "label_id": 3,
+          "label_name": "craft_yarn_caron"
+        },
+        {
+          "label_id": 4,
+          "label_name": "drink_greentea_itoen"
+        },
+        {
+          "label_id": 5,
+          "label_name": "drink_whippingcream_lucerne"
+        },
+        {
+          "label_id": 6,
+          "label_name": "lotion_essentially_nivea"
+        },
+        {
+          "label_id": 7,
+          "label_name": "pasta_lasagne_barilla"
+        },
+        {
+          "label_id": 8,
+          "label_name": "snack_biscotti_ghiott"
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley"
+        },
+        {
+          "label_id": 10,
+          "label_name": "none"
+        }
+      ]
+    }
+  ]
+}
